@@ -1,4 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+	<img><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?       font=Fira+Code&weight=500&size=36&duration=4000&pause=100&color=7E354D&background=FFFFFF00&width=476&height=81&lines=%CA%9C%C9%AA+%E1%B4%9B%CA%9C%E1%B4%87%CA%80%E1%B4%87 !+;%C9%AA'%E1%B4%8D+%E1%B4%A0%C9%AA%E1%B4%8B%E1%B4%9B%E1%B4%8F%CA%80+%E1%B4%8D%E1%B4%80%CA%80%E1%B4%8B%E1%B4%8F%E1%B4%A0" alt="Typing SVG" /></a>
+  </img>
+	<h3></h3>
+</div>
+<div id="socials" align="center">
+	<a target="_blank" href="https://t.me/Viktor460851945">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
 <!--
 **MarkovViktor/MarkovViktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
