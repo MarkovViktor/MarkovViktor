@@ -7,19 +7,21 @@
 	<a target="_blank" href="https://t.me/Viktor460851945">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
+	<a href="https://wa.me/79991251255"><img src="https://img.shields.io/badge/Whats_App-success?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href="mailto:markov.viktor.an@yandex.ru"><img src="https://img.shields.io/badge/email-important?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<!--
-**MarkovViktor/MarkovViktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="techs" align="center">
+  <h2>Languages and Technologies:</h2>
+  <img alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="NODE.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="techs" align="center">
+  <h2>My statistics:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkovViktor&show_icons=true&theme=tokyonight" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkovViktor&theme=tokyonight" height="140px"/>
+</div>
